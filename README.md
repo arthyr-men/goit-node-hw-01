@@ -1,9 +1,7 @@
 # goit-node-hw-01
 
-1 https://ibb.co/5TjWwH4
+1 https://monosnap.com/file/VM9lj6dXwjSpSXmDEt02TbXrNiqbsO
 
-2 https://ibb.co/ynT8ByP
+2 https://monosnap.com/file/mIRjji5Dc0xfO02WY3YgXyoOM4Tw5P
 
-3 https://ibb.co/VmN0LfB
-
-4 https://ibb.co/GWyPyx3
+3 https://monosnap.com/file/Xqw2jezzSnKZvC2utNdP7J4Fh8STiG
